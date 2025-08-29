@@ -1,0 +1,3 @@
+size_gb,avg_age_days,access_freq,cost_trend,object_count,bucket_age_days,cost_volatility,region_factor,compliance_score,optimization,savings_potential
+120,200,0.05,0.02,15000,300,0.05,1.0,0.7,glacier_transition,0.75
+25,30,0.9,0.18,5000,90,0.2,1.0,1.0,intelligent_tiering,0.32
